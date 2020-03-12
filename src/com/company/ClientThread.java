@@ -14,6 +14,7 @@ public class ClientThread implements Runnable {
     @Override
     public void run() {
         takeTaxi();
+        //cai nay la cai gi
     }
 
     private void takeTaxi(){
